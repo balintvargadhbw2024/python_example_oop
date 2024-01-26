@@ -24,7 +24,7 @@ deposit(100)
 print(jonys_balance)
 
 
-# What about next person
+# Adding new person is difficult!
 
 peters_bank = BankAccount()
 
